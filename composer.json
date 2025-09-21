@@ -1,0 +1,15 @@
+{
+    "name": "sebastian/gestor-tareas",
+    "autoload": {
+        "psr-4": {
+            "Sebastian\\GestorTareas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian Peña",
+            "email": "sipa2259@gmail.com"
+        }
+    ],
+    "require": {}
+}
